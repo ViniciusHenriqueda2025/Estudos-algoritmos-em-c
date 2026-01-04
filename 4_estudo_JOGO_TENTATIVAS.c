@@ -10,8 +10,6 @@ int main(){
     printf("tente acertar o numero de 1 ate 30 = ");
     scanf("%d", &numero);
     
-    // CORREÇÃO 1: Começa com 1, pois ele já fez o primeiro chute acima
-    // CORREÇÃO 2: Adicionei o ponto e vírgula no final
     contador = 1; 
 
     while (numero != escolha){
@@ -24,7 +22,6 @@ int main(){
         
         scanf("%d", &numero);
         
-        // CORREÇÃO 3: Corrigido "cantador" para "contador" e adicionado o ;
         contador = contador + 1;
     }
    
