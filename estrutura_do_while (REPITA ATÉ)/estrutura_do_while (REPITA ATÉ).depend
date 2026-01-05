@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1766775941 source:c:\programas  ( c )\estrutura_do_while (repita at…)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
