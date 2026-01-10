@@ -1,12 +1,15 @@
-# 🚀 Estudos de Algoritmos (C)
+# 💻 Fundamentos em Linguagem C - Estruturas de Dados
 
-Repositório dedicado ao domínio da lógica de programação em C (ADS - Estácio).
+Este repositório guarda a minha base técnica. Aqui eu aprendi como a lógica de programação funciona no nível mais puro, antes de migrar para o Java.
 
-### 🧠 O que estou praticando:
-* **Tomada de decisão:** `if`, `else`
-* **Laços de Repetição:** `while`, `for`, `do while`
-* **Interação:** Entrada e saída de dados (`scanf`/`printf`)
+## 🚀 O que este repositório contém:
+- [x] **Manipulação de Vetores:** Organização e busca de dados.
+- [x] **Matrizes Dinâmicas:** Cálculos e tabelas de dados complexos.
+- [x] **Lógica Matemática:** Resolução de problemas estruturados.
+- [x] **Gerenciamento de Memória:** A base para entender qualquer linguagem.
 
-### 🎯 Objetivo:
-Base sólida para transição imediata para **Java Backend**.
+## 🏆 Por que C?
+Dominar matrizes e vetores em C me deu a disciplina necessária para entender como o Java gerencia objetos hoje. Se você entende o "difícil" (C), o mercado sabe que você aprende qualquer coisa.
 
+---
+*Construindo a base para ser um Desenvolvedor Backend de elite.*
